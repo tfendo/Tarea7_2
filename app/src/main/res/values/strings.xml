@@ -4,4 +4,7 @@
     <string name="input_hint">Book Title</string>
     <string name="button_text">Search Books</string>
     <string name="no_results">No results</string>
+    <string name="loading">Loading...</string>
+    <string name="no_search_term">Por favor, escribe un término de búsqueda</string>
+    <string name="sin_conexion">Comprueba tu conexión a la red</string>
 </resources>
